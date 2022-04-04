@@ -20,4 +20,6 @@
 
 * Follow my Github link that has a Credit Analysis Storytelling using SQL in English and Portuguese, other Power BI and Data Modeling projects. I'm also producing a project with visualization of data geographically on a map with a dataset provided by Olist that addresses multiple E-Commerce information in Brazil, using R Studio.
 
-* More professional informations in: https://www.linkedin.com/in/gabriel-fernandes-964a69233/
+* *More professional informations in: https://www.linkedin.com/in/gabriel-fernandes-964a69233/
+
+* *Contact email: gabriel12258@outlook.com
