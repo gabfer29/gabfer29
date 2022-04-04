@@ -1,4 +1,6 @@
-# who am I?
+# **Who am I?**
+
+---
 
 * For some time I worked in the wholesale and retail business, always focusing on finance and data analysis.
 
