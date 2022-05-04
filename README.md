@@ -12,7 +12,7 @@
 
 * I am studying the second semester of Financial Management at Saint Paul and the first semester of Database at FIAP.📖 
 
-* I have Advanced English and speak since my fourteen years old.🗣️
+* I have Advanced English.
 
 * I have knowledge in Office, SQL and Power Bi package.💻
 
